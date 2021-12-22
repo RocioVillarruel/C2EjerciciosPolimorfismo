@@ -1,0 +1,15 @@
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\C2EjerciciosPolimorfismo.exe
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\C2EjerciciosPolimorfismo.deps.json
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\C2EjerciciosPolimorfismo.runtimeconfig.json
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\C2EjerciciosPolimorfismo.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\ref\C2EjerciciosPolimorfismo.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\bin\Debug\net6.0\C2EjerciciosPolimorfismo.pdb
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.AssemblyInfo.cs
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\ref\C2EjerciciosPolimorfismo.dll
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.pdb
+C:\Users\hpPavilion\Desktop\Metrodev\Clase2\C2EjerciciosPolimorfismo\obj\Debug\net6.0\C2EjerciciosPolimorfismo.genruntimeconfig.cache
